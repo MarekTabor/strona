@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    padding: 30px;
+}
+
+a.bottom {
+    cursor: pointer;
+    width: 10px;
+    padding: 20px 25px;
+    background-color: #a5d5ee;
+    color: #14658f;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid #2f7ea7;
+    border-radius: 7px;
+
+}
+
+header {
+    color: goldenrod;
+    background-color: black;
+}
+
+header img {
+    padding-left: 350px;
+}
+
+table,
+th,
+td {
+    border: black solid 3px;
+}
+
+div {
+    background-color: darkblue;
+}
+
+article {
+    font-size: 30px;
+    padding-top: 30px;
+    background-color: green;
+
+}
